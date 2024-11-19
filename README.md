@@ -10,4 +10,4 @@ Run `ng serve` or `npx ng serve` for a dev server. Navigate to `http://localhost
 
 ## App test
 
-![Imagen de resultado funcional requerido](img/Test.png)
+![Imagen de resultado funcional requerido](Test.png)
